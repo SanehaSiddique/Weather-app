@@ -31,4 +31,4 @@ The **Weather App** allows users to search for the current weather conditions of
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/SanehaSiddique/weather-app.git
+   git clone https://github.com/SanehaSiddique/Weather-app.git
